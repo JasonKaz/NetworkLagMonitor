@@ -7,7 +7,7 @@ Components Needed
 -----------------
 - Ethernet Sheild
 - 3 220ohm resistors
-- 3 jump wires
+- 3 jumper wires
 - 1 green, yellow, and red LED
  
 Libaries Needed
@@ -16,4 +16,4 @@ Libaries Needed
 
 Schematics
 -----------------
-![Schematics](https://github.com/JasonKaz/NetworkLagMonitor/blob/master/Schematics.png)
+![Schematics](Schematics.png)
